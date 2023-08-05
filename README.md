@@ -1,5 +1,5 @@
-### Hi there 👋
-
+<h1>About Me</h1>
+I'm Jefrey Arias, a full stack developer engineer. I'm passionate about everything related with technology 👨‍💻, specially web develoment and cloud. When I'm not learning something, I spend my time, reading 📖, playing video games 🎮 or walking in the contryside 🚶. 
 <!--
 **JefreyAE/JefreyAE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
